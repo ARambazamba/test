@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gR33T72Sn7OcLl5oAwpYpUAQcYF3z7ooXbt2os6ry72GtPnK0hMCr+V6vI0ZSeslBYZ7XZ4rnIo6b+hkw2ZSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peter.reiter\\test\\order-service\\order-service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter.reiter\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\peter.reiter\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\peter.reiter\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\peter.reiter\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\peter.reiter\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\peter.reiter\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
